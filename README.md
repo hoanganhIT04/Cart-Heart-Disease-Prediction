@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🫀 Cart Heart Disease Prediction
 
 Ứng dụng **thuật toán CART (Classification and Regression Trees)**  
